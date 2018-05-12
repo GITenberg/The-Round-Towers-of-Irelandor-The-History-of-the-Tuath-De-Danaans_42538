@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41736
     wikipedia: http://en.wikipedia.org/wiki/Henry_O'Brien_(classicist)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42538#The-Round-Towers-of-Irelandor-The-History-of-the-Tuath-De-Danaans
 gutenberg_issued: '2013-04-15'
 gutenberg_type: Text
 identifiers:
