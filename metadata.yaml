@@ -1,0 +1,29 @@
+_repo: The-Round-Towers-of-Irelandor-The-History-of-the-Tuath-De-Danaans_42538
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42538-h/images/cover.jpg
+creator:
+  author:
+    agent_name: O'Brien, Henry
+    birthdate: 1808
+    deathdate: 1835
+    gutenberg_agent_id: '41736'
+    url: http://www.gutenberg.org/2009/agents/41736
+    wikipedia: http://en.wikipedia.org/wiki/Henry_O'Brien_(classicist)
+description: ''
+gutenberg_issued: '2013-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42538'
+  lccn: 01018910
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Antiquities'
+- !lcc 'DA'
+- !lcsh 'Round towers -- Ireland'
+title: The Round Towers of Ireland; or, The History of the Tuath-De-Danaans
+url: http://www.gutenberg.org/ebooks/42538
